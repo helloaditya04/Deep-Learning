@@ -1,0 +1,1 @@
+---> Perceptron loss function is a measure used to quantify how well a perceptron classifies data points.
