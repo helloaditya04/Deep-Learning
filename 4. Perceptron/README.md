@@ -15,7 +15,7 @@ Notes on Perceptrons, Neurons, and Geometric Intuition behind linear classifiers
 - [Example Dataset](#example-dataset)
 - [Code](#code)
 
----
+--- 
 
 ## What is a Perceptron?
 
