@@ -7,4 +7,10 @@
 
 
 
+# Neural Network Architecture
 
+<div align="center">
+
+<img src="./neural-network.svg" alt="Neural Network Architecture" width="680">
+
+</div>
