@@ -9,8 +9,10 @@
 
 # Neural Network Architecture
 
-<div align="center">
-
-<img src="./neural-network.svg" alt="Neural Network Architecture" width="680">
-
-</div>
+<p align="center">
+  <img 
+    src="./neural-network.png" 
+    alt="Neural Network Architecture"
+    width="90%"
+  />
+</p>
