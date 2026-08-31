@@ -238,3 +238,7 @@ for xi in X:
 - **Neuron** = generalized concept, supports many activation functions.
 - Perceptrons draw **linear decision boundaries** — they fail on non-linearly separable data.
 - Modern **neural networks** stack multiple neurons/layers with non-linear activations to overcome this limitation.
+
+
+
+
