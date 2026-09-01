@@ -3,3 +3,5 @@
 >2. It consists of an input layer, one or more hidden layers, and an output layer.
 >
 >3. Each connection between nodes is associated with a weight, and each node applies an activation function to the weighted sum of its inputs. MLPs are trained using algorithms like backpropagation to learn and make predictions.
+>
+>
