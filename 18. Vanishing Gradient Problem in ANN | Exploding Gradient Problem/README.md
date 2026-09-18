@@ -1,8 +1,12 @@
 > In Machine Learning, The Vanishing Gradient Problem is encountered when training artificial neural networks with gradient-based learning methods ans backpropagation.
 
 
+
+
 > 
 > In such methods, during ach iteration of training each of the neural netowrks weights receive an update proportional to the partial derivative of the error function with respect to the current weights.
+
+
 
 >
 > 
