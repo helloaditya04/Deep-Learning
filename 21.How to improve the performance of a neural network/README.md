@@ -73,3 +73,50 @@ Dataset = 1000 samples
 Batch size = 100
 
 Number of batches = 1000 / 100 = 10
+
+
+```
+
+
+
+## 2. By Solving Problems :-
+
+### i. Vanishing/Exploding Gradient
+
+**Vanishing/Exploding Gradient** occurs when gradients become extremely small or extremely large during backpropagation, especially in deep neural networks.
+
+- **Vanishing gradient** → gradients become very small → earlier layers learn very slowly.
+- **Exploding gradient** → gradients become very large → training becomes unstable.
+- **Possible solutions** → proper weight initialization, suitable activation functions (e.g., ReLU), Batch Normalization, and appropriate network architectures.
+
+---
+
+### ii. Not Enough Data
+
+When the training dataset is too small, the model may not learn the underlying patterns properly and may **overfit** the training data.
+
+- **More data** → helps the model learn better and generalize to unseen data.
+- **Too little data** → may cause overfitting and poor generalization.
+- **Possible solutions** → collect more data, use data augmentation, or use transfer learning.
+
+---
+
+### iii. Slow Training
+
+Training can be slow because of factors such as a small learning rate, large network size, or inefficient optimization.
+
+- **Small learning rate** → small updates → slow training.
+- **Large learning rate** → large updates → may overshoot the minimum.
+- **Proper learning rate** → faster and more stable training.
+- **Possible solutions** → tune the learning rate, use optimizers such as Adam, and use appropriate batch sizes.
+
+---
+
+### iv. Overfitting
+
+**Overfitting** occurs when a model learns the training data too well, including noise, and performs poorly on unseen data.
+
+- **Too complex model** → may memorize the training data.
+- **Too many neurons/layers** → can increase the risk of overfitting.
+- **Small training dataset** → can increase the risk of overfitting.
+- **Possible solutions** → use Dropout, L1/L2 regularization, data augmentation, early stopping, or collect more training data.
