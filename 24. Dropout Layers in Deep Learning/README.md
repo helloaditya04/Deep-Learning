@@ -1,1 +1,3 @@
-> Dropout Layer in Deep Learning
+> Dropout Layer in Deep Learning.
+
+
