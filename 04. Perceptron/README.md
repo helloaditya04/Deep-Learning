@@ -4,6 +4,7 @@ Notes on Perceptrons, Neurons, and Geometric Intuition behind linear classifiers
 
 ---
 
+
 ## 📌 Table of Contents
 
 - [What is a Perceptron?](#what-is-a-perceptron)
